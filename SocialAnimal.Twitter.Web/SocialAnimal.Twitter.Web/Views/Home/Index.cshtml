@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+	@using (Ajax.BeginForm("Users", "Home", new AjaxOptions() { HttpMethod = "POST", UpdateTargetId = "UsersResult" }, new { @id = "formUsers" }))
+	{
+	<div class="form-group">
+		<label for="name">Name</label>
+		<input type="text" id="name">
+		<p class="help-block">Search by name.</p>
+	</div>
+	
+	<button type="submit" class="btn btn-default">Submit</button>
+	}
+</div>

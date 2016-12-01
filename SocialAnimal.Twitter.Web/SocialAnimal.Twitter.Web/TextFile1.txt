@@ -1,0 +1,259 @@
+﻿Response Snapshot
+HTTP/1.1 200 OK
+x-frame-options:
+SAMEORIGIN
+x-rate-limit-remaining:
+177
+last-modified:
+Thu, 01 Dec 2016 20:57:27 GMT
+status:
+200 OK
+Content-Length:
+37440
+x-response-time:
+203
+Connection:
+keep-alive
+x-transaction:
+00c39f0800eab585
+Server:
+tsa_b
+pragma:
+no-cache
+cache-control:
+no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+42ad2bb60ad98ddea92daca538a9831d
+x-xss-protection:
+1; mode=block
+x-content-type-options:
+nosniff
+x-rate-limit-limit:
+180
+expires:
+Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+Thu, 01 Dec 2016 20:57:27 GMT
+set-cookie:
+lang=en; Path=/
+set-cookie:
+guest_id=v1%3A148062584696132977; Domain=.twitter.com; Path=/; Expires=Sat, 01-Dec-2018 20:57:27 UTC
+x-rate-limit-reset:
+1480626711
+content-disposition:
+attachment; filename=json.json
+x-twitter-response-tags:
+BouncerCompliant
+strict-transport-security:
+max-age=631138519
+x-access-level:
+read-write-directmessages
+Content-Type:
+application/json;charset=utf-8
+
+{
+  "statuses":  [
+     {},
+     {},
+     {
+      "created_at": "Tue Nov 29 23:54:24 +0000 2016",
+      "id": 803748982044311600,
+      "id_str": "803748982044311552",
+      "text": "@lainiebug The manufacturer might cover part of the costs. Visit the website. https://t.co/tljVOBMN6L",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [
+           {}
+        ],
+        "urls":  [
+           {}
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": 792201046139383800,
+      "in_reply_to_status_id_str": "792201046139383808",
+      "in_reply_to_user_id": 16809992,
+      "in_reply_to_user_id_str": "16809992",
+      "in_reply_to_screen_name": "lainiebug",
+      "user":  {
+        "id": 19738872,
+        "id_str": "19738872",
+        "name": "SageRobinson",
+        "screen_name": "SageRobinson",
+        "location": "New York, NY",
+        "description": "Public relations/Health communications:BFA Writing Emerson College, health comm grad Stony Brook School of Public Health/Journalism. Caregiver. Jobseeker.",
+        "url": "https://t.co/Up61jQtDbM",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/Up61jQtDbM",
+                "expanded_url": "https://thisisnotahealthcareblog.wordpress.com",
+                "display_url": "thisisnotahealthcareblog.wordpress.com",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 356,
+        "friends_count": 647,
+        "listed_count": 13,
+        "created_at": "Thu Jan 29 22:24:35 +0000 2009",
+        "favourites_count": 2332,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 980,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733765760833728512/FQhzUftR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733765760833728512/FQhzUftR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19738872/1397533606",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {
+      "created_at": "Wed Nov 23 17:49:28 +0000 2016",
+      "id": 801482814524772400,
+      "id_str": "801482814524772353",
+      "text": "CARING FOR SOMEONE\nWITH EPILEPSY\nPERSONAL EPILEPSY\nSTORIES\nSAVINGS \nAND SUPPORT\nIMPORTANT\nSAFETY INFORMATION\nWhat... https://t.co/Fm1rADZvbq",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/Fm1rADZvbq",
+            "expanded_url": "http://fb.me/62sfpXeUX",
+            "display_url": "fb.me/62sfpXeUX",
+            "indices":  [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 774979304,
+        "id_str": "774979304",
+        "name": "April quiroz",
+        "screen_name": "april_quiroz",
+        "location": "Pasadena, CA.",
+        "description": "",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 430,
+        "listed_count": 0,
+        "created_at": "Thu Aug 23 02:28:22 +0000 2012",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1080,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3217952718/9d53d36c28d662a9b6efc3714d685c5b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3217952718/9d53d36c28d662a9b6efc3714d685c5b_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/774979304/1360193126",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
